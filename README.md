@@ -116,9 +116,7 @@
   <img src="https://img.shields.io/badge/📅_Submissions_Last_Year-420+-C9D1D9?style=for-the-badge" alt="Submissions Last Year" />
 </div>
 
-<p align="center">
-  <i><small>Edit the badge values above manually to match your live records.</small></i>
-</p>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
