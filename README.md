@@ -1,6 +1,7 @@
 <!-- Hero Section -->
 <div align="center">
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E+Initializing+Shivin.exe...;%3E+Architecting+Scalable+Backends;%3E+AI-Powered+Systems;%3E+Performance.Optimized(true);" alt="Typing SVG" />
 
 <h1 align="center">⚡ SHIVIN GOEL ⚡</h1>
